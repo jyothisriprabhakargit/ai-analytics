@@ -1,4 +1,4 @@
-StandardScaler
+from sklearn.preprocessing import StandardScaler
 KMeans
 cycle
 islice

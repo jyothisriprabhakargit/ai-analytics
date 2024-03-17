@@ -6,7 +6,7 @@ from itertools import cycle, islice
 import matplotlib.pyplot as plt
 from pandas.plotting import parallel_coordinates
 import random
-#import duckdb
+
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go

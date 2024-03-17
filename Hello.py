@@ -24,7 +24,7 @@ def load_data(path: str):
 	return data
 
 
-data = load_data("/ai-analytics/hhh.xlsx")
+data = load_data("lib/hhh.xlsx")
 
 #st.write("shape of hole dataset")
 #data.shape

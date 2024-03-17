@@ -1,4 +1,13 @@
-altair
+StandardScaler
+KMeans
+cycle
+islice
+matplotlib.pyplot
+parallel_coordinates
+random
+plotly.express
+plotly.graph_objects
+warnings
 numpy
 pandas
 pydeck

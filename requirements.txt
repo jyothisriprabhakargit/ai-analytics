@@ -1,3 +1,4 @@
+NLTK
 altair
 numpy
 pandas

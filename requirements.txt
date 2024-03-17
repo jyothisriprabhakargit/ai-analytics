@@ -1,4 +1,5 @@
 StandardScaler
+matplotlib
 altair
 numpy
 pandas

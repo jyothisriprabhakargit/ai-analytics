@@ -1,4 +1,4 @@
-NLTK
+sklearn
 altair
 numpy
 pandas

@@ -1,4 +1,4 @@
-sklearn
+StandardScaler
 altair
 numpy
 pandas

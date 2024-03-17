@@ -1,13 +1,4 @@
-from sklearn.preprocessing import StandardScaler
-KMeans
-cycle
-islice
-matplotlib.pyplot
-parallel_coordinates
-random
-plotly.express
-plotly.graph_objects
-warnings
+altair
 numpy
 pandas
 pydeck
